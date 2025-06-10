@@ -70,7 +70,6 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue'
 import FormField from '@/components/FormField.vue'
 import ProgressBar from '@/components/ProgressBar.vue'
 import TokenDisplay from '@/components/TokenDisplay.vue'

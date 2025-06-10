@@ -14,7 +14,6 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
 import AppHeader from '@/components/AppHeader.vue'
 import TOTPGenerator from '@/components/TOTPGenerator.vue'
 import AppFooter from '@/components/AppFooter.vue'
