@@ -5,12 +5,12 @@
         <p class="footer-text">
           Built by 
           <a 
-            href="https://github.com/RefuseOdd" 
+            href="https://github.com/refuseodd" 
             target="_blank" 
             rel="noopener noreferrer"
             class="footer-link"
           >
-            refuseodd
+            RefuseOdd
           </a>
           • Source on 
           <a 
