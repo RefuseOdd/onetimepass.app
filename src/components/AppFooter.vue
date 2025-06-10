@@ -76,4 +76,13 @@
   color: var(--primary-dark);
   text-decoration: underline;
 }
+
+/* Dark mode overrides for better visibility */
+[data-theme="dark"] .footer-link {
+  color: #60a5fa;
+}
+
+[data-theme="dark"] .footer-link:hover {
+  color: #93c5fd;
+}
 </style>
