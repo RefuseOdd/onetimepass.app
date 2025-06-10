@@ -79,10 +79,10 @@
 
 /* Dark mode overrides for better visibility */
 [data-theme="dark"] .footer-link {
-  color: #60a5fa;
+  color: #e5e7eb;
 }
 
 [data-theme="dark"] .footer-link:hover {
-  color: #93c5fd;
+  color: #ffffff;
 }
 </style>
