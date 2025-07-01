@@ -1,4 +1,4 @@
-# TOTP Generator
+# OneTimePass.app | TOTP Generator
 
 A modern, secure Time-based One-Time Password (TOTP) generator built with Vue 3, TypeScript, and Vite. Generate 2FA tokens entirely in your browser with no data transmission to external servers.
 
