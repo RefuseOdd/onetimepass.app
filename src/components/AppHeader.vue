@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <h1 class="title">TOTP Token Generator</h1>
+    <h1 class="title">One Time Pass | TOTP Token Generator</h1>
     <p class="subtitle">
       Generate time-based one-time passwords securely in your browser
     </p>
