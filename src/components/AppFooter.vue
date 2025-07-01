@@ -14,7 +14,7 @@
           </a>
           • Source on 
           <a 
-            href="https://github.com/refuseodd/totp-generator" 
+            href="https://github.com/RefuseOdd/onetimepass.app" 
             target="_blank" 
             rel="noopener noreferrer"
             class="footer-link"
