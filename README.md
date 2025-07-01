@@ -25,7 +25,7 @@ A modern, secure Time-based One-Time Password (TOTP) generator built with Vue 3,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/RefuseOdd/totp-generator.git
+git clone https://github.com/RefuseOdd/onetimepass.app.git
 cd totp-generator
 ```
 
