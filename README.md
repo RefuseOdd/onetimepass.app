@@ -2,7 +2,6 @@
 
 A modern, secure Time-based One-Time Password (TOTP) generator built with Vue 3, TypeScript, and Vite. Generate 2FA tokens entirely in your browser with no data transmission to external servers.
 
-
 ## ✨ Features
 
 - 🔒 **Completely Secure**: All computations performed locally in your browser
@@ -25,8 +24,8 @@ A modern, secure Time-based One-Time Password (TOTP) generator built with Vue 3,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/RefuseOdd/onetimepass.app.git
-cd totp-generator
+git clone https://github.com/RefuseOdd/OneTimePass.app.git
+cd OneTimePass.app
 ```
 
 2. Install dependencies:
@@ -55,7 +54,7 @@ npm run dev
 You can pre-fill the form using URL parameters:
 
 ```
-https://yoursite.com/?key=JBSWY3DPEHPK3PXP&digits=6&period=30&algorithm=SHA1
+https://onetimepass.app/?key=JBSWY3DPEHPK3PXP&digits=6&period=30&algorithm=SHA1
 ```
 
 Supported parameters:
